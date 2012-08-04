@@ -1,0 +1,4 @@
+This code isn't from me, I found it on StackOverflow but it can be really useful to send email in your application.
+It uses javaMail to send emails and the jar files are from javaMail.
+
+You must include jar files in your project.
